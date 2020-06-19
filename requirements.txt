@@ -3,10 +3,10 @@ flask_sqlalchemy
 redis
 pymongo
 gunicorn==19.3.0
-humanize
+humanize==0.5.1
 python_dateutil
 requests
-markdown
+markdown==3.0
 shelljob==0.5.7
 eventlet
 werkzeug
